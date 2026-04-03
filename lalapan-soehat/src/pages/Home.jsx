@@ -49,7 +49,7 @@ export default function Home() {
 
                                 {/* Slide 2: Gunawan */}
                                 <div className="w-full shrink-0 flex justify-center p-4">
-                                    <Link to="/Gunawan" className="block w-full max-w-sm rounded-[2rem] overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform md:hover:-translate-y-3 group/card relative bg-white">
+                                    <Link to="/gunawan" className="block w-full max-w-sm rounded-[2rem] overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform md:hover:-translate-y-3 group/card relative bg-white">
                                         <div className="relative h-96 overflow-hidden">
                                             <img src="/pp-gunawan.jpeg" alt="Gunawan" className="w-full h-full object-cover transform transition-transform duration-700 group-hover/card:scale-105" />
                                             <div className="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/20 to-transparent"></div>
